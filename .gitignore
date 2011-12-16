@@ -1,3 +1,5 @@
+*.swo
+*.monitor
 node_modules
 *.swp
 
